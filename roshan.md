@@ -11,4 +11,4 @@ int main()
 print("hello");
 }
 ```
-[anshids page](https://www.muhammedanshid.com)
+[anshids page](https://www.github.com/muhammedanshid)
